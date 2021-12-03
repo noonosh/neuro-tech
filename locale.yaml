@@ -5,4 +5,4 @@
 name: 'Nano Tech'
 language_support: true
 texts:
-    greet: "👋 <b>Hey dasturchi!</b>\n\nO'zbekistonning yetakchi dasturchilar jamiyatiga qo'shilishingni men juda xoxlayabman.\n\nBor yo'g'i <b>pochta manzilingni (e-mail)</b> yoz, qolganini esa menga qoldir 😉"
+    greet: "👋 <b>Hey!</b>\n\nI want you to join this community.\n\nAll you need to do is enter your <b>email address</b>, and we will send you a verification code 😉"
