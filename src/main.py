@@ -5,10 +5,21 @@ from telegram.ext import (Updater,
 from src.components import commands
 import os
 import dotenv
+import logging
 
 
 dotenv.load_dotenv()
 DEBUG = os.environ.get('DEBUG', False) == 'True'
+
+
+logging.basicConfig(
+    filename='logs.log' if not DEBUG else None,
+    filemode='a',
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    level=logging.DEBUG if DEBUG else logging.INFO
+)
+
+logger = logging.getLogger(__name__)
 
 
 def main():
