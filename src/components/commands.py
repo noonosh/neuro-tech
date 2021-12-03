@@ -1,6 +1,6 @@
 from telegram.ext import CallbackContext
 from telegram import Update
-from . import menu
+from . import index
 from utils.text import text
 
 
