@@ -14,4 +14,4 @@ Hey, senior engineer, you are welcome to contribute. Just send a PR, and we'll r
 
 ### Licence
 
-The platform is open source and licensed under the [MIT license](https://github.com/nuriddinislamov/blob/main/LICENCE).
+The platform is open source and licensed under the [MIT license](https://github.com/nuriddinislamov/neuro-tech/blob/main/LICENCE).
