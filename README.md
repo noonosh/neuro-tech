@@ -1,2 +1,17 @@
-# neuro-tech
-The online reference within chat bot for developers.
+# [neurotech](https://github.com/nuriddinislamov/neuro-tech/)
+
+### What is it?
+
+Neuro Tech is a online software for devlopers. Its aim is to provide educational resources and make coding accessible for everyone.
+
+### How to use?
+
+Just go to [neurotech](https://t.me/neuro_techbot) and start exploring. We promise you will find it very easy to use.
+
+### Contributing
+
+Hey, senior engineer, you are welcome to contribute. Just send a PR, and we'll review it as a community.
+
+### Licence
+
+The platform is open source and licensed under the [MIT license](https://github.com/nuriddinislamov/blob/main/LICENCE).
