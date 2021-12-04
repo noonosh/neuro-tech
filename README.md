@@ -2,7 +2,7 @@
 
 ### What is it?
 
-Neuro Tech is a online software for devlopers. Its aim is to provide educational resources and make coding accessible for everyone.
+Neuro Tech is a online software for developers. Its aim is to provide educational resources and make coding accessible for everyone.
 
 ### How to use?
 
@@ -14,4 +14,4 @@ Hey, senior engineer, you are welcome to contribute. Just send a PR, and we'll r
 
 ### Licence
 
-The platform is open source and licensed under the [MIT license](https://github.com/nuriddinislamov/neuro-tech/blob/main/LICENCE).
+The platform is open source and licensed under the [MIT license](https://github.com/nuriddinislamov/neuro-tech/blob/main/LICENSE).

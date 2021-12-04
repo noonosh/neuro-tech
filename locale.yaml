@@ -2,7 +2,7 @@
 # This document is subject to copyright
 # Created and distributed to public by Nuriddin Islamov, December 2021
 
-name: 'Nano Tech'
+name: 'Neuro Tech'
 language_support: true
 texts:
     greet: "👋 <b>Hey!</b>\n\nI want you to join this community.\n\nAll you need to do is enter your <b>email address</b>, and we will send you a verification code 😉"
