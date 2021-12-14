@@ -32,4 +32,3 @@ def main():
     updater.idle()
     
 
-# This is a commit from my iPhone
