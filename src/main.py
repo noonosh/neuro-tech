@@ -1,7 +1,7 @@
 from logging import DEBUG
 from telegram.ext import (Updater,
                           CommandHandler,
-                          CallbackQueryHandler)
+                          ConversationHandler)
 from src.components import commands, start
 import os
 import dotenv
@@ -26,7 +26,19 @@ def main():
     updater = Updater(os.environ['BOT_TOKEN'])
     dispatcher = updater.dispatcher
 
-    dispatcher.add_handler(CommandHandler('start', start.start))
+    main_conversation = ConversationHandler(
+        entry_points=[
+            CommandHandler('start', start.start)
+        ],
+        states={
+
+        },
+        fallbacks=[
+            CommandHandler('help', commands.help),
+        ]
+    )
+
+    dispatcher.add_handler(main_conversation)
 
     updater.start_polling()
     updater.idle()

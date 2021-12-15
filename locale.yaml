@@ -6,3 +6,14 @@ name: 'Neuro Tech'
 language_support: true
 texts:
     greet: "👋 <b>Hey!</b>\n\nI want you to join this community.\n\nAll you need to do is enter your <b>email address</b>, and we will send you a verification code 😉"
+    help: "<b>ℹ️ Neuro Tech help info</b>\n\n
+
+/start - Start/restart the bot\n
+/cancel - Cancel the current operation\n
+/refer - Get the referral code\n
+/explore - Explore the network and join the one that is best for you!\n
+/code - Learn by looking at the code snippets that were written by senior/middle developers\n\n
+
+
+<i>📨 If you have and queries or any questions regarding this open source platform, please send your message to help@ezpz.uz</i>
+"
