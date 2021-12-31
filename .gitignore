@@ -7,6 +7,9 @@ __pycache__/
 # Mac trash
 .DS_Store
 
+# Node packages
+node_modules/
+
 # C extensions
 *.so
 
